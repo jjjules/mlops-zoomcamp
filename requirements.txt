@@ -1,0 +1,8 @@
+python=3.9.7
+scikit-learn=1.0.2
+ipython
+jupyter
+jupyterlab
+numpy
+pandas
+pyarrow

@@ -1,0 +1,19 @@
+name: dtc-mlops
+dependencies:
+- python=3.9
+- pip
+- numpy
+- jupyterlab
+- numpy
+- pandas
+- pyarrow
+- matplotlib
+- scikit-learn
+- mlflow
+- xgboost
+- seaborn
+- hyperopt
+- dateutil
+- flask
+- pip:
+  - prefect==2.0b5
